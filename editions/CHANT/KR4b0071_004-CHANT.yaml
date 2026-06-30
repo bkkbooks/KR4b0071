@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0071/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附錄以下各詩據逯欽立輯本輯倡狂不勝愁結束下清樓草堂詩箋三十九清明詩注匡山曖遠壑灌壘屬中流城花飛照水江月上明樓廬山記一遊人及丘壑秋氣滿平皋路積康成帶門疎仲蔚蒿山明雲氣畫天靜鳥飛高自有東籬菊還持泛濁醪廬山記四搖落山中曙秋氣滿林隈螢光映草頭鳥影出枝來殘暑避日盡斷霞逐風開空返陶潛縣終無宋玉才廬山記四九冬飄遠雪六出表豐年睢陽生玉樹雲夢起瓊田歲華紀麗四
+  hash: sha256:f6c2d3036680eead90a4cd6de1bb3f1a20c8c2e8d51f8305fd832a792a5c6c92
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0071_CHANT_004-1a.1-h}
+metadata:
+  title: 張正見集三卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0071.xml
+hash: sha256:263376beed575a000327ad0cb25369a6fa61beead3b058fe11d0a139b11dd204
